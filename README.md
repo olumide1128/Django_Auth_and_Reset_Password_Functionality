@@ -15,9 +15,16 @@ This is User authentication system which allows users to reset their password. I
 - Notification
 ![](https://github.com/olumide1128/Django_Auth_and_Reset_Password_Functionality/blob/master/screenshots/Screenshot%20(109).png)
 
-- Check Email
+- Check Email and Click link
 
 ![](https://github.com/olumide1128/Django_Auth_and_Reset_Password_Functionality/blob/master/screenshots/Screenshot%20(121).png)
+
+- Enter new password details
+
+![](https://github.com/olumide1128/Django_Auth_and_Reset_Password_Functionality/blob/master/screenshots/Screenshot%20(131).png)
+
+- Your Password has been changed Successfully!
+
 
 
 
