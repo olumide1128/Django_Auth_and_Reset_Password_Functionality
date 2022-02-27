@@ -8,7 +8,7 @@ This is User authentication system which allows users to reset their password. I
 - Steps:
 
 
-!(https://github.com/olumide1128/Django_Auth_and_Reset_Password_Functionality/blob/master/screenshots/Screenshot%20().png)
+![](https://github.com/olumide1128/Django_Auth_and_Reset_Password_Functionality/blob/master/screenshots/Screenshot%20().png)
 
 
 - Cheers!!
